@@ -41,7 +41,6 @@ The definitions of the columns used in the functional trait dataset are describe
   * **methodDescription**: A short description of the methods used (character). For example: "Intertegular measurements taken from images using ImageJ".
   * **note**: Any relevant information not included in the above categories, if applicable (character).
   * **study**: A unique name referring to the study in which the data were collected, likely uniting multiple lines of entered data (character). This entry is particularly useful for uniting datasets not yet published. For example: "Ostwald Thermal Tolerance 2022".
-  * **note**: Any relevant information not included in the above categories (character).
   * **reference**: A formatted citation for the reference including the relevant data, if applicable (character). APA citation format preferred. For example: "Hamblin, A. L., Youngsteadt, E., Lopez-Uribe, M. M., & Frank, S. D. (2017). Physiological thermal limits predict differential responses of bees to urban heat-island effects. Biology Letters, 13, 0125."
   * **referenceDOI**: The digital object identifier (DOI) of the above reference, if applicable (character).
 
