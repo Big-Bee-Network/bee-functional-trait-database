@@ -8,13 +8,12 @@ The Bee Functional Trait Database is a repository for bee functional trait data,
 
 * **Social Organization**:
 * **Nesting Biology**:
-* **Diet Breadth**
 * **Body Size**:
 <br/>[GitHub repository](https://github.com/Big-Bee-Network/bee-body-size)
 * **Thermal Tolerance**:
 * **Desiccation Resistance**:
 * **Phenology**:
-* **Biotic Associations**:
+* **Biotic Associations**: Including Diet Breath
 <br/>[GitHub repository](https://github.com/Big-Bee-Network/global-bee-interaction-data)<br/>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6564718.svg)](https://doi.org/10.5281/zenodo.6564718)
 * **Pilosity**:
 
