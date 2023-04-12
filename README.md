@@ -1,18 +1,14 @@
-# bee-functional-trait-database
-
 ## Bee Functional Trait Database
 
-### Description
+[```Functional Traits```](#functional-traits) / [```Data Definitions```](#data-definitions) / [```Citation```](#citation) / [```Acknowledgements```](#acknowledgements)
 
 The Bee Functional Trait Database is a repository for bee functional trait data, including data on morphological, physiological, ecological, and behavioral traits. Observations are sourced from the literature and from preserved museum specimens.
 
-## Trait Datasets
-
-### Functional Trait Definitions
+### Functional Traits
 
 * **Social Organization**:
 * **Nesting Biology**:
-* **Diet Breadth**:
+* **Diet Breadth**
 * **Body Size**:
 * **Thermal Tolerance**:
 * **Desiccation Resistance**:
@@ -20,8 +16,6 @@ The Bee Functional Trait Database is a repository for bee functional trait data,
 * **Biotic Associations**:
 * **Pilosity**:
 
-
- 
 ### Data Definitions
 
 The definitions of the columns used in the functional trait dataset are described here. If these correspond with Darwin Core they are mapped to those classes. 
@@ -46,8 +40,7 @@ The definitions of the columns used in the functional trait dataset are describe
   * **reference**: A formatted citation for the reference including the relevant data, if applicable (character). APA citation format preferred. For example: "Hamblin, A. L., Youngsteadt, E., Lopez-Uribe, M. M., & Frank, S. D. (2017). Physiological thermal limits predict differential responses of bees to urban heat-island effects. Biology Letters, 13, 0125."
   * **referenceDOI**: The digital object identifier (DOI) of the above reference, if applicable (character).
 
-  
-  ## Citations
+## Citation
   
 ## Acknowledgements
 The following organizations and projects that made this work and tutorial possible:
