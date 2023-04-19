@@ -18,7 +18,7 @@ The Bee Functional Trait Database is a repository for bee functional trait data,
 
 ### Contribute
 
-To contribute a new dataset, please download the following template and input your data according to the [```Guide to the Data Upload Template```] below. The first row in the template is an example and should be deleted before upload. Then, [open an issue here](https://github.com/Big-Bee-Network/bee-functional-trait-database/issues/new) and provide a link to the dataset and how you would like your dataset cited. 
+To contribute a new dataset, please download the following [template](https://github.com/Big-Bee-Network/bee-functional-trait-database/blob/main/beeTraitDatabaseTemplate_19Apr23.csv) and input your data according to the [```Guide to the Data Upload Template```] below. The first row in the template is an example and should be deleted before upload. Then, [open an issue here](https://github.com/Big-Bee-Network/bee-functional-trait-database/issues/new) and provide a link to the dataset and how you would like your dataset cited. 
 
 ### Trait and Class Definitions
 
