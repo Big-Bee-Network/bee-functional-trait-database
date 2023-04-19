@@ -18,7 +18,7 @@ The Bee Functional Trait Database is a repository for bee functional trait data,
 
 ### Contribute
 
-To contribute a new dataset, please [open an issue here](https://github.com/Big-Bee-Network/bee-functional-trait-database/issues/new) and provide a link to the dataset and how you would like your dataset cited.
+To contribute a new dataset, please download the following template and input your data according to the [```Guide to the Data Upload Template```] below. The first row in the template is an example and should be deleted before upload. Then, [open an issue here](https://github.com/Big-Bee-Network/bee-functional-trait-database/issues/new) and provide a link to the dataset and how you would like your dataset cited. 
 
 ### Trait and Class Definitions
 
@@ -29,10 +29,11 @@ To submit a new trait or class...
 
 Below are definitions of the columns used in the trait dataset template. Where they correspond with the Darwin Core Standard (https://dwc.tdwg.org) they are mapped to those classes. 
   * **basisOfRecord**: [DWC:BasisOfRecord](http://rs.tdwg.org/dwc/terms/basisOfRecord) The specific nature of the data record (character). Eligible values include: ```own measurement/observation```, ```literature record```, or ```ocurrence record```.
-  * **specimenCatalogNumber**: The catalog number of the specimen (character and numeric).
-  * **specimenCatalogNumber**: The biological level to which the trait data refers (character). Eligible values include: ```individual```, ```species```, ```population```, or ```colony```.
-  * **acceptedTaxonName**: [DWC:acceptedNameUsage](http://rs.tdwg.org/dwc/terms/acceptedNameUsage) The full name, with authorship and date information if known, of the currently valid taxon (character).
-  * **acceptedTaxonName**: [DWC:acceptedNameUsageID](http://rs.tdwg.org/dwc/terms/acceptedNameUsageID) An identifier for the name usage (documented meaning of the name according to a source) of the currently valid taxon (character.
+  * **catalogNumber**: [DWC:catalogNumber](http://rs.tdwg.org/dwc/terms/catalogNumber) The catalog number of the specimen (character and numeric), if applicable.
+  * **recordNumber**: [DWC:recordNumber](http://rs.tdwg.org/dwc/terms/recordNumber) An identifier given to the occurrence (usually, an individual bee) at the time it was recorded. Often serves as a link between field notes and an occurrence record, such as a specimen collector's number, or an individual identifier assigned to a bee during an experiment. This identifier can link individual bees across trait datasets, when multiple functional traits are recorded for a single individual.
+  * **recordLevel**: The biological level to which the trait data refers (character). Eligible values include: ```individual```, ```species```, ```population```, or ```colony```.
+  * **acceptedNameUsage**: [DWC:acceptedNameUsage](http://rs.tdwg.org/dwc/terms/acceptedNameUsage) The full name, with authorship and date information if known, of the currently valid taxon (character).
+  * **acceptedNameUsageID**: [DWC:acceptedNameUsageID](http://rs.tdwg.org/dwc/terms/acceptedNameUsageID) An identifier for the name usage (documented meaning of the name according to a source) of the currently valid taxon (character.
   * **traitName**: The relevant functional trait (character). Eligible values include: ```sociality```, ```nesting location```, ```diet breadth```, ```body size```, ```thermal tolerance```,```desiccation resistance```,```phenology```,```tongue length```,or ```pilosity```.
   * **traitDataType**: The class of functional trait data recorded (character). Eligible values include: ```integer```, ```real number```, or ```character```.
   * **traitDataType**: The unit of measurement of the data (character). Examples include: ```mm```,```deg C```,```hours```, or ```NA``` for character data.
