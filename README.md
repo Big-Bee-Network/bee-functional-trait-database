@@ -4,7 +4,7 @@
 
 The Bee Functional Trait Database is a repository for bee functional trait data, including data on morphological, physiological, ecological, and behavioral traits. Observations are sourced from the literature, data records, and published and unpublished datasets.
 
-![alt text](https://github.com/Big-Bee-Network/bee-functional-trait-database/files/11548913/Functional.Trait.Database.pdf)">
+![alt text](https://github.com/Big-Bee-Network/bee-functional-trait-database/files/11548965/Functional.Trait.Database.pdf)">
 
 
 
@@ -64,7 +64,7 @@ Below are definitions of the columns used in the trait dataset template. Where t
 ## Citation
   
 ## Acknowledgements
-The following organizations and projects that made this work possible:
+The following organizations made this work possible:
 [NSF](https://nsf.gov) for their support and funding of [Big-Bee](https://www.idigbio.org/wiki/index.php?title=TCN:_Extending_Anthophila_research_through_image_and_trait_digitization_(Big-Bee)&mobileaction=toggle_view_desktop), Extending Anthophila research through image and trait digitilization. ([NSF:DBI:2102006](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2102006&HistoricalAwards=false))
 
 <a href="https://www.idigbio.org/wiki/index.php?title=TCN:_Extending_Anthophila_research_through_image_and_trait_digitization_(Big-Bee)&mobileaction=toggle_view_desktop"><img src="https://www.idigbio.org/wiki/images/8/84/Big-Bee-logo-2022.png" class="inline-image" style="height: 6em;"></a>
