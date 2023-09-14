@@ -4,9 +4,6 @@
 
 The Bee Functional Trait Database is a repository for bee functional trait data, including data on morphological, physiological, ecological, and behavioral traits. Observations are sourced from the literature, data records, and published and unpublished datasets.
 
-![alt text](https://github.com/Big-Bee-Network/bee-functional-trait-database/files/11548965/Functional.Trait.Database.pdf)">
-
-
 
 ### Functional Trait Data Repositories
 
